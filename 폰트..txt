@@ -1,0 +1,14 @@
+객체 (개체) 배치
+1. display : inlne,  block
+inline-block, none, flex
+일률적으로 행(row)과 열colum)에 배치하는 경우
+
+
+2. float : left, right (왼쪽과 오른쪽으로 배치하는 경우- 속성 유지)
+   clear : both (해제)
+
+3. positon - absolute (완전 독립), relative, fixed
+
+폰트연결
+1.<link>연결
+2.css에 적용 @-import
