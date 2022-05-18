@@ -23,6 +23,8 @@ nav{width: 800px; float: right;}
 #healing img, #activity img{float: left; margin-right: 20px;
     border-radius: 20px;}
 #healing, #activity{height: 300px;}
+#healing h3{margin-top: 20px;}
+#healing ul{list-style: none; margin: 10px;}
 #sightseeing ul li{margin: 10px 30px;}
 #sightseeing ul li a{text-decoration: none;}
 
@@ -61,6 +63,23 @@ border-bottom-left-radius: 30px; border-bottom-right-radius: 30px; width: 800px;
  #tbl_board th, #tbl_board td{border: 1px solid black;}
  #tbl_board thead{background: #ccc;}
 
+
+#profile{width: 1000px; margin: 30px auto;}
+#profile section{margin: 30px 10px 120px 10px;}
+#profile section h2{margin: 20px; color: blue;}
+#profile section div{margin: 30px 10px;}
+#profile ul li{margin: 16px 50px;}
+#profile #intro{height: 350px;}
+#profile #intro h1{font-size: 2em;}
+#profile #intro p{line-height: 1.8em; margin: 50px;}
+#profile #intro img{float: left; margin-right: 30px; border-radius: 5px;}
+#profile #intro a{text-decoration: none; color: blue;}
+#profile #intro a:hover{text-decoration: underline;}
+#profile #career ul li:nth-child(2n+1){color: red;}
+#profile #career ul li:nth-child(2n){color: green;}
+/* #profile #career ul li:nth-of-type(1){color: #f00 */
+#profile #skill ul li a{text-decoration: none; color: blue;} 
+#profile #skill ul li a:hover{text-decoration: underline;}
  
  
 
